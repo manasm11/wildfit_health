@@ -34,3 +34,9 @@ Whenever making emotional decision, follow the steps:
   - Low fat doesn't mean healthy
   - Low sugar doesn't mean healthy
   - Natural doesn't means healthy. Natural means it has artificial flavouring with just enough natural content to call it natural.
+- Industry tries to impose their food with events. Eg
+  - Cake with birthday
+  - Candies with christmas
+#### Problems with sugar
+1. Sugar causes insulin surge, which creates nutrition depletion, which further makes body want more food.
+2. Sugar is addictive.
