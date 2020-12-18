@@ -20,3 +20,17 @@
 6. *Nutritional Hunger*: The actual hunger when body needs nutrition. Body can't specify the exact thing it needs, so we often eat nutritionally empty food, which still doesn't satisfy body's need for nutrition.
 
 ### Get Enough of Good
+
+### Food timeline
+Whenever making emotional decision, follow the steps:
+1. Identify emotional state
+2. Observe inner debate.
+3. Good feeling starts before eating, we give credit to food unnecessarily
+4. Observe feeling after eating.
+
+### Decoding Food Industry
+- They want you to eat more than you need.
+- Studies are paid and use some common sense before believing. Egs of misleading slogans:
+  - Low fat doesn't mean healthy
+  - Low sugar doesn't mean healthy
+  - Natural doesn't means healthy. Natural means it has artificial flavouring with just enough natural content to call it natural.
